@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on MiniatureCode</title>
+    <link>zcoding.co/posts/</link>
+    <description>Recent content in Logs on MiniatureCode</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="zcoding.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Built site</title>
+      <link>zcoding.co/posts/built-site/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>zcoding.co/posts/built-site/</guid>
+      <description>概述 本网站使用 hugo 搭建。</description>
+    </item>
+  </channel>
+</rss>
