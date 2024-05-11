@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>zcoding.co/posts/built-site/</loc>
+    <loc>https://zcoding.co/posts/built-site/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="zcoding.co/en/posts/built-site/"
+                href="https://zcoding.co/en/posts/built-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="zcoding.co/posts/built-site/"
+                href="https://zcoding.co/posts/built-site/"
                 />
   </url><url>
-    <loc>zcoding.co/posts/</loc>
+    <loc>https://zcoding.co/posts/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="zcoding.co/en/posts/"
+                href="https://zcoding.co/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="zcoding.co/posts/"
+                href="https://zcoding.co/posts/"
                 />
   </url><url>
-    <loc>zcoding.co/</loc>
+    <loc>https://zcoding.co/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="zcoding.co/en/"
+                href="https://zcoding.co/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="zcoding.co/"
+                href="https://zcoding.co/"
                 />
   </url><url>
-    <loc>zcoding.co/categories/</loc>
+    <loc>https://zcoding.co/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="zcoding.co/en/categories/"
+                href="https://zcoding.co/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="zcoding.co/categories/"
+                href="https://zcoding.co/categories/"
                 />
   </url><url>
-    <loc>zcoding.co/series/</loc>
+    <loc>https://zcoding.co/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="zcoding.co/en/series/"
+                href="https://zcoding.co/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="zcoding.co/series/"
+                href="https://zcoding.co/series/"
                 />
   </url><url>
-    <loc>zcoding.co/tags/</loc>
+    <loc>https://zcoding.co/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="zcoding.co/en/tags/"
+                href="https://zcoding.co/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="zcoding.co/tags/"
+                href="https://zcoding.co/tags/"
                 />
   </url>
 </urlset>

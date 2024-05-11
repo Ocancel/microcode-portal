@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logs on MiniatureCode</title>
-    <link>zcoding.co/en/posts/</link>
+    <link>https://zcoding.co/en/posts/</link>
     <description>Recent content in Logs on MiniatureCode</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="zcoding.co/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zcoding.co/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Built site</title>
-      <link>zcoding.co/en/posts/built-site/</link>
+      <link>https://zcoding.co/en/posts/built-site/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>zcoding.co/en/posts/built-site/</guid>
+      <guid>https://zcoding.co/en/posts/built-site/</guid>
       <description>Overview This website is built using Hugo.</description>
     </item>
   </channel>
