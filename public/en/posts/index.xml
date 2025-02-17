@@ -13,7 +13,7 @@
       <link>https://zcoding.co/en/posts/built-site/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>https://zcoding.co/en/posts/built-site/</guid>
-      <description>Overview This website is built using Hugo.</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;This website is built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
