@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zcoding.co/posts/built-site/</loc>
+    <loc>https://microcode.site/posts/built-site/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zcoding.co/en/posts/built-site/"
+                href="https://microcode.site/en/posts/built-site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zcoding.co/posts/built-site/"
+                href="https://microcode.site/posts/built-site/"
                 />
   </url><url>
-    <loc>https://zcoding.co/posts/</loc>
+    <loc>https://microcode.site/posts/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zcoding.co/en/posts/"
+                href="https://microcode.site/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zcoding.co/posts/"
+                href="https://microcode.site/posts/"
                 />
   </url><url>
-    <loc>https://zcoding.co/</loc>
+    <loc>https://microcode.site/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zcoding.co/en/"
+                href="https://microcode.site/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zcoding.co/"
+                href="https://microcode.site/"
                 />
   </url><url>
-    <loc>https://zcoding.co/categories/</loc>
+    <loc>https://microcode.site/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zcoding.co/en/categories/"
+                href="https://microcode.site/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zcoding.co/categories/"
+                href="https://microcode.site/categories/"
                 />
   </url><url>
-    <loc>https://zcoding.co/series/</loc>
+    <loc>https://microcode.site/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zcoding.co/en/series/"
+                href="https://microcode.site/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zcoding.co/series/"
+                href="https://microcode.site/series/"
                 />
   </url><url>
-    <loc>https://zcoding.co/tags/</loc>
+    <loc>https://microcode.site/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zcoding.co/en/tags/"
+                href="https://microcode.site/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://zcoding.co/tags/"
+                href="https://microcode.site/tags/"
                 />
   </url>
 </urlset>

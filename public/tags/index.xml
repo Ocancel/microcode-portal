@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MiniatureCode</title>
-    <link>https://zcoding.co/tags/</link>
+    <link>https://microcode.site/tags/</link>
     <description>Recent content in Tags on MiniatureCode</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://zcoding.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://microcode.site/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
